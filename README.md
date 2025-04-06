@@ -8,6 +8,9 @@
     и <a href="https://ctravl.com/">"Корал Тревел"</a>. 
     Люблю API и Web📕
     </p>
+
+<details>
+<summary>Еще немного обо мне</summary>
 <h2>
     Скилы 📜
 </h2>
@@ -28,7 +31,7 @@
     Языки 🌐
 </h3>
 
-<table width="300px" class="iksweb">
+<table width="400px" class="iksweb">
     <thead>
         <tr align="center">
             <td><strong>Язык</strong></td>
@@ -59,4 +62,5 @@
       </tr>
   </tbody>
 </table>
+</details>
 <a href='https://t.me/kotsaff'>Написать мне</a>
