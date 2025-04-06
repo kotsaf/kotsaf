@@ -30,8 +30,7 @@
 <h3>
     Языки 🌐
 </h3>
-
-<table width="400px" class="iksweb">
+<table width="400px">
     <thead>
         <tr align="center">
             <td><strong>Язык</strong></td>
@@ -63,4 +62,9 @@
   </tbody>
 </table>
 </details>
-<a href='https://t.me/kotsaff'>Написать мне</a>
+
+<p align="center">
+    <a href='https://t.me/kotsaff'>
+    Написать мне
+    </a>
+</p>
