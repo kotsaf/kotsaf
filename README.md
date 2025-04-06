@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I`m Safar!</h1>
-<p style="font-size: 12px" align='center'>
+<p style="font-size: 10px" align='center'>
     Я ❤️ разработку
 </p>
 <p>
