@@ -1,5 +1,10 @@
 <h1 align="center">Hello, I`m Safar!</h1>
-<p>I ❤️ developing</p>
+<p>
+  I ❤️ developing
+</p>
+<a href='https://t.me/kotsaff'>
+  Contact me!
+</a>
 
 <!--
 **kotsaf/kotsaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
