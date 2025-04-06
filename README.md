@@ -25,8 +25,8 @@
 <table width="300px" class="iksweb">
     <thead>
         <tr align="center">
-            <td>Язык</td>
-            <td>Уровень</td>
+            <td><strong>Язык</strong></td>
+            <td><strong>Уровень</strong></td>
         </tr>
     </thead>
 
