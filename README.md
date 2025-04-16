@@ -20,12 +20,12 @@
 <ul>
     <li>Python</li>
     <li>JavaScript</li>
-    <li>HTML, CSS</li>
+    <li>HTML, CSS, SCSS</li>
     <li>Django, React</li>
-    <li>SQL</li>
-    <li>Aiogram</li>
-    <li>Asyncio</li>
+    <li>SQL - PostgreSQL, SQlite</li>
+    <li>Aiogram, Asyncio</li>
     <li>ML</li>
+    <li>FastAPI, Pydentic</li>
 </ul>
 <h3>
     Языки 🌐
