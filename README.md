@@ -1,62 +1,63 @@
 <h1 align="center">Hello, I`m Safar!</h1>
 <p style="font-size: 10px" align='center'>
-    Я ❤️ разработку
+    me ❤️ development 
 </p>
 <p>
-    Страстно увлекаюсь кодингом и пишу код от нескольких часов в день. Начал кодить еще в 14, когда писал свою игру.
-    <br>Работал над <a href="https://resort-elbrus.ru/">Эльбрус 2.0</a> 
-    и <a href="https://ctravl.com/">"Корал Тревел"</a>. 
-    Люблю API и Web📕
-    </p>
+    Passionate about coding -> writing code for hours a day. 
+    Started coding at the age of 14, when I was writing my own mini-game.
+    Worked on <a href="https://resort-elbrus.ru/">Elbrus 2.0</a> and <a href="https://ctravl.com/">Coral Travel</a>. 
+    In love with APIs and Web📕
+</p>
 
 <details>
-<summary>Еще немного обо мне</summary>
+<summary>More about me</summary>
 <h2>
-    Скилы 📜
+    Skills 📜
 </h2>
 <h3>
-    Разработка:
+    Development:
 </h3>
 <ul>
-    <li>Python</li>
-    <li>JavaScript</li>
+    <li>Python, JavaScript</li>
     <li>HTML, CSS, SCSS</li>
-    <li>Django, React</li>
-    <li>SQL - PostgreSQL, SQlite</li>
+    <li>Django (ORM, Geo), React</li>
+    <li>SQL - PostgreSQL, SQlite, NoSQL</li>
     <li>Aiogram, Asyncio</li>
-    <li>ML</li>
     <li>FastAPI, Pydentic</li>
+    <li>Docker</li>
+    <li>Testing (Pytest, UnitTest)</li>
+    <li>High-load apps, Microservice architecture</li>
 </ul>
 <h3>
-    Языки 🌐
+    Languages 🌐
 </h3>
 <table width="400px">
     <thead>
         <tr align="center">
-            <td><strong>Язык</strong></td>
-            <td><strong>Уровень</strong></td>
+            <td><strong>Language</strong></td>
+            <td><strong>Level</strong></td>
         </tr>
     </thead>
 
   <tbody>
       <tr align="center">
-          <td>Русский</td>
+          <td>Russian</td>
           <td>Native</td>
       </tr>
       <tr align="center">
-          <td>Балкарский</td>
+          <td>Balkarian</td>
           <td>Native</td>
       </tr>
       <tr align="center">
-          <td>Английский</td>
+          <td>English</td>
           <td>B2</td>
       </tr>
       <tr align="center">
-          <td>Турецкий</td>
+          <td>Turkish</td>
           <td>B1</td>
       </tr>
       <tr align="center">
-          <td>Испанский</td>
+          <td>Spanish</td>
           <td>A2</td>
       </tr>
   </tbody>
@@ -65,6 +66,6 @@
 
 <p align="center">
     <a href='https://t.me/kotsaff'>
-    Написать мне
+        Contact me
     </a>
 </p>
