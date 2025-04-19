@@ -23,8 +23,8 @@
     <li>Django (ORM, Geo), React</li>
     <li>SQL - PostgreSQL, SQlite, NoSQL</li>
     <li>Aiogram, Asyncio</li>
-    <li>FastAPI, Pydentic</li>
-    <li>Docker</li>
+    <li>FastAPI, Pydentic, Redis</li>
+    <li>Docker, Cubernetis</li>
     <li>Testing (Pytest, UnitTest)</li>
     <li>High-load apps, Microservice architecture</li>
 </ul>
