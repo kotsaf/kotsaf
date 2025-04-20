@@ -26,7 +26,7 @@
     <li>FastAPI, Pydentic, Redis</li>
     <li>Docker, Cubernetis</li>
     <li>Testing (Pytest, UnitTest)</li>
-    <li>High-load apps, Microservice architecture</li>
+    <li>High-load, Microservices</li>
 </ul>
 <h3>
     Languages 🌐
