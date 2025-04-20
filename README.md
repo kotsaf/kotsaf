@@ -3,7 +3,7 @@
     me ❤️ development 
 </p>
 <p>
-    Passionate about coding -> writing code for hours a day. 
+    Passionate about coding -> writing for hours a day. 
     Started coding at the age of 14, when I was writing my own mini-game.
     Worked on <a href="https://resort-elbrus.ru/">Elbrus 2.0</a> and <a href="https://ctravl.com/">Coral Travel</a>. 
     In love with APIs and Web📕
